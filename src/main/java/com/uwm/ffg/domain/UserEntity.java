@@ -11,7 +11,7 @@ import com.uwm.ffg.commons.domain.BaseEntity;
 /**
  * Entity to hold application user data - first name, last name, etc.
  * 
- * @author Arthur Vin
+ * @author Vivek Mishra
  */
 @Entity
 @Table(name="appuser")

@@ -5,7 +5,7 @@ import com.uwm.ffg.domain.UserEntity;
 /**
  * Service providing service methods to work with user data and entity.
  * 
- * @author Arthur Vin
+ * @author Vivek Mishra
  */
 public interface UserService {
 

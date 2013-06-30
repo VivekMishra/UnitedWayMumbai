@@ -9,7 +9,7 @@ import javax.persistence.MappedSuperclass;
 /**
  * Base entity type to hold common Id property. To be extended.
  * 
- * @author Arthur Vin
+ * @author Vivek Mishra
  */
 @MappedSuperclass
 public class BaseEntity implements Serializable {

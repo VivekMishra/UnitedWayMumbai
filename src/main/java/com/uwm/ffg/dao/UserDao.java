@@ -6,7 +6,7 @@ import com.uwm.ffg.domain.UserEntity;
 /**
  * Data access object interface to work with User entity database operations.
  * 
- * @author Arthur Vin
+ * @author Vivek Mishra
  */
 public interface UserDao extends GenericDao<UserEntity, Long> {
 

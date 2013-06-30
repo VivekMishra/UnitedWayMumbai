@@ -7,7 +7,7 @@ import java.util.List;
  * Generic interface for Data Access Objects. To be extended or implemented.
  * Contains common persistence methods.
  * 
- * @author Arthur Vin
+ * @author Vivek Mishra
  */
 public interface GenericDao<T, ID extends Serializable> {
 	
